@@ -1,6 +1,6 @@
 # ControlSystemLab@UNNC 🎛️🔧
 
-Welcome to the **Control System Lab GitHub Organization** 👋, affiliated with the University of Nottingham Ningbo China (UNNC). This page serves as the primary platform for managing **Final Year Projects (FYPs)** across various disciplines:
+Welcome to the **Control System Lab GitHub Organization** 👋, affiliated with the University of Nottingham Ningbo China (UNNC). This page serves as the primary platform for managing **Final Year Projects (FYPs)** and **FURP** across various disciplines:
 
 - ⚡ Electrical and Electronic Engineering (EEE)
 - 🛠️ Mechanical Engineering (ME)
