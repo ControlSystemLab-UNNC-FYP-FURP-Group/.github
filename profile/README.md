@@ -26,9 +26,6 @@ This organization facilitates cutting-edge undergraduate research through:
 Individual/group capstone projects under academic supervision
 
 ### 🚀 FURP (Faculty Research)
-Multi-year research initiatives like：
-- [Software Defined Robotics (SDARS)]([repo-link](https://github.com/ControlSystemLab-UNNC-FYP-FURP-Group/FURP2025-2-Research-and-application-for-software-defined-robotics-system))
-- [ROS 2 Humble Bootcamp]([repo-link](https://github.com/ControlSystemLab-UNNC-FYP-FURP-Group/FURP2025-2-ROS-2-Bootcamp))
 
 ## Key Points 🚨
 - **FYP Students**: Contact module convenor for technical queries
